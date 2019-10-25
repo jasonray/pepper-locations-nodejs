@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jasonray/pepper-locations/issues"
   },
-  "homepage": "https://github.com/jasonray/pepper-locations#readme"
+  "homepage": "https://github.com/jasonray/pepper-locations#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
