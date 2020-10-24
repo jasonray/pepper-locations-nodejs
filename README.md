@@ -15,3 +15,12 @@ create location
 set status to open
 set status to closed
 add geolocation
+
+# Links
+express.js documentation [https://expressjs.com/en/4x/api.html]
+mySql client documentation [https://github.com/mysqljs/mysql#performing-queries]
+lodash documentation [https://lodash.com/docs/]
+
+AWS Beanstalk [https://docs.aws.amazon.com/elastic-beanstalk/index.html]
+AWS Console [https://console.aws.amazon.com/console/]
+AWS RDS Console [https://console.aws.amazon.com/rds]
